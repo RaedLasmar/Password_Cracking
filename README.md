@@ -30,10 +30,10 @@ ce secteur.
 - ❌ `passwordx7k9` (hash salé) — résiste totalement à rockyou.txt
 - ✅ Le même mot de passe avec 2 sels différents génère 3 hashes différents
   ## Screenshots
-  -![resultat sur le mot de passe "123456"](screenshots/1775687299368_image.png)
-  -![resultat sur le mot de passe "raed"](screenshots/1775687267210_image.png)
-  -![resultat sur un mot de passe fort](screenshots/1775687313762_image.png)
-  -![resultat sur un hash salé](screenshots/1775687355261_image.png)
+  -![resultat sur le mot de passe "123456"](screenshots/image_2026-04-09_011822055.png)
+  -![resultat sur le mot de passe "raed"](screenshots/image_2026-04-09_011807922.png)
+  -![resultat sur un mot de passe fort](screenshots/image_2026-04-09_011827893.png)
+  -![resultat sur un hash salé](screenshots/image_2026-04-09_011834340.png)
   
   
   
