@@ -29,6 +29,13 @@ ce secteur.
 - ❌ `X7$kP#2mQ` — introuvable même après 0.973s de recherche
 - ❌ `passwordx7k9` (hash salé) — résiste totalement à rockyou.txt
 - ✅ Le même mot de passe avec 2 sels différents génère 3 hashes différents
+  ## Screenshots
+  -![resultat sur le mot de passe "123456"](screenshots/1775687299368_image.png)
+  -![resultat sur le mot de passe "raed"](screenshots/1775687267210_image.png)
+  -![resultat sur un mot de passe fort](screenshots/1775687313762_image.png)
+  -![resultat sur un hash salé](screenshots/1775687355261_image.png)
+  
+  
   
 
 ## Comment lancer le projet
